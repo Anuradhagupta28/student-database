@@ -1,0 +1,52 @@
+{
+  "masai": [
+    {
+      "id": "1",
+      "name": "Saini",
+      "batch": "Phoenix",
+      "section": "C",
+      "score": 8,
+      "image": "https://avatars.githubusercontent.com/u/117514329?v=4"
+    },
+    {
+      "id": "2",
+      "name": "Pavan",
+      "batch": "Ninja",
+      "section": "A",
+      "score": 3,
+      "image": "https://avatars.githubusercontent.com/u/117514329?v=4"
+    },
+    {
+      "id": "3",
+      "name": "Praveen",
+      "batch": "Samurai",
+      "section": "B",
+      "score": 5,
+      "image": "https://avatars.githubusercontent.com/u/117514329?v=4"
+    },
+    {
+      "name": "anu",
+      "batch": "pw08-205",
+      "section": "G",
+      "eval_score": "6",
+      "image": "https://avatars.githubusercontent.com/u/117514329?v=4",
+      "id": "uTf2Lfy"
+    },
+    {
+      "name": "",
+      "batch": "",
+      "section": "",
+      "eval_score": "",
+      "image": "",
+      "id": "VuQKB6t"
+    },
+    {
+      "name": "yash",
+      "batch": "pw",
+      "section": "C",
+      "eval_score": "5",
+      "image": "https://avatars.githubusercontent.com/u/117514329?v=4",
+      "id": "qUDcte1"
+    }
+  ]
+}

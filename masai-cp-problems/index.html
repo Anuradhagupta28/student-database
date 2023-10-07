@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/index.css" />
+    <title>Student Database</title>
+
+  </head>
+  <body>
+    <div id="main-container">
+      <div>
+   <h1>Add Student</h1>
+        <!-- Add input boxes for adding student details -->
+        <input type="text" id="name" placeholder="Name">
+        <input type="text" id="batch" placeholder="Batch">
+        <input type="text" id="section" placeholder="Section">
+        <input type="number" id="eval_score" placeholder="Evaluation Score">
+        <input type="text" id="image" placeholder="Image URL">
+        <button id="add_student">Add Student</button>
+
+       <h1>Update score</h1>
+        <input type="number" id="new_score" placeholder="New Score">
+    
+        <!-- Buttons for sorting and filtering -->
+        <h1>Sort based on score</h1>
+        <button id="sort-low-to-high">Sort Low to High</button>
+        <button id="sort-high-to-low">Sort High to Low</button>
+
+        <h1>Filter by score</h1>
+        <button id="greater-than">Score >= 5</button>
+        <button id="less-than">Score <= 5</button>
+    
+        <!-- Update input box -->
+      
+
+      </div>
+    
+        <!-- Container for student cards -->
+        <div  id="container">
+            <!-- Student card template -->
+            <!-- <div class="student">
+                <h3>Name of the student</h3>
+                <p class="student_score">Score: 95</p>
+                <p>Batch: ABC</p>
+                <p>Section: XYZ</p>
+                <button class="remove_student">Remove</button>
+                <button class="update_score">Update Score</button>
+            </div> -->
+            <!-- Repeat this template for each student -->
+        </div>
+      </div>
+    
+
+
+
+
+
+    <script src="./src/scripts/index.js"></script>
+  </body>
+</html>
